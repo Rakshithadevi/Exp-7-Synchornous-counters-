@@ -98,6 +98,8 @@ endmodule
 ### UP COUNTER:
 
 ### RTL LOGIC UP COUNTER :
+![image](https://user-images.githubusercontent.com/94165326/169743046-8b6f9f9d-a45e-43cf-8bc5-3558c2ffdc95.png)
+
 
 
 
@@ -109,19 +111,30 @@ endmodule
 
 
 ### TIMING DIGRAMS FOR COUNTER : 
+![image](https://user-images.githubusercontent.com/94165326/169743159-f9b79ca9-b8be-4dda-a78a-a32050956bb2.png)
+![image](https://user-images.githubusercontent.com/94165326/169743182-40bf9ec3-cbb9-48e4-98e7-3c9aff11b0c1.png)
+
 
 
 
 
 ### TRUTH TABLE:
+![image](https://user-images.githubusercontent.com/94165326/169743095-ea914803-542d-4dfc-bb43-237c4c8f43fe.png)
+
 
 
 ### DOWN COUNTER:
 
 
 ### RTL LOGIC DOWN COUNTER  :
+![image](https://user-images.githubusercontent.com/94165326/169743212-003249e1-a71f-4667-9c56-63be0333e0da.png)
+
 ### TIMING DIGRAMS FOR COUNTER :
+![image](https://user-images.githubusercontent.com/94165326/169743239-8c174197-8513-4df4-934e-c6549ce01f0e.png)
+![image](https://user-images.githubusercontent.com/94165326/169743262-280be7a9-a927-4fb7-9f34-b7facb1ba66d.png)
+
 ### TRUTH TABLE:
+![image](https://user-images.githubusercontent.com/94165326/169743295-2fe7cef3-f2fa-476c-a136-09ccca9735d6.png)
 
 
 
